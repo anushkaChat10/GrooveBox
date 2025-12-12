@@ -1,7 +1,11 @@
-# 🎵 GrooveBox Music Player<div align="center">
- <div align="center">
-  <img src="https://github.com/user-attachments/assets/ed3f1ef6-c791-49d0-b54a-f91217fcd17d" width="350" />
+<div align="center">
+
+# 🎵 GrooveBox Music Player
+
+<img src="https://github.com/user-attachments/assets/ed3f1ef6-c791-49d0-b54a-f91217fcd17d" width="250" />
+
 </div>
+
 
 
 
