@@ -1,0 +1,20 @@
+{
+  "name": "GrooveBox Music Player",
+  "version": "1.0.0",
+  "description": "Your Personal Groove Station - Modern Music Player",
+  "manifest_version": 3,
+
+  "action": {
+    "default_title": "GrooveBox",
+    "default_popup": "popout.html"
+  },
+
+  "web_accessible_resources": [
+    {
+      "resources": ["Track1.mp3", "Track2.mp3", "Track3.mp3"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+
+  "permissions": []
+}
