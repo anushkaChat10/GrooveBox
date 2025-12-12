@@ -1,4 +1,9 @@
-# 🎵 GrooveBox Music Player
+# 🎵 GrooveBox Music Player<div align="center">
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/ed3f1ef6-c791-49d0-b54a-f91217fcd17d" width="350" />
+</div>
+
+
 
 A Chrome extension music player with a sleek dark interface, playlist management, and intuitive playback controls.
 
@@ -120,6 +125,4 @@ Replace #1DB954 throughout popout.html with your preferred color:
 
 MIT License - see LICENSE file for details
 
-## Screenshots
 
-<img width="474" height="751" alt="image" src="https://github.com/user-attachments/assets/a4408e1d-085c-4375-9e9b-14b74a86ed41" />
